@@ -1,2 +1,2 @@
 # C-programming.
-This is a file for c program.
+This is a file of learning c program.
